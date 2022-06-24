@@ -1,0 +1,21 @@
+/* Syntax CSS */
+
+/* body = selector, color: property, red: value, {} Decleration */
+/* body {
+    color: red;
+    background-color: yellow; 
+} */
+
+/* Hauptteil der Seite */
+section {
+    background-color: blue;
+    color: white;
+}
+
+h2 {
+    background-color: green;
+}
+
+img {
+    width: 50%;
+}
